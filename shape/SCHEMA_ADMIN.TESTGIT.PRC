@@ -1,5 +1,5 @@
 ﻿CREATE OR REPLACE procedure SCHEMA_ADMIN.testGit is
- a number
+ a number;
 begin
     a:= 1;
 end;
